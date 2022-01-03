@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604599265 source:c:\users\mac farlin\documents\code blocks\konoba2\main.c
+	<stdio.h>
+	<stdlib.h>
+
